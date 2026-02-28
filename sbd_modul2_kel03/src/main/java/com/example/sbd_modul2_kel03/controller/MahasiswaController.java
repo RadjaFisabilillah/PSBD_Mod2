@@ -56,5 +56,4 @@ public class MahasiswaController {
         jdbcTemplate.update(sql, nim);
         return "redirect:/";
     }
-
 }
