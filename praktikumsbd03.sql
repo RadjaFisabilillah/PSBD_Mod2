@@ -1,0 +1,1 @@
+UPDATE mahasiswa SET is_deleted = 0 WHERE is_deleted IS NULL;
